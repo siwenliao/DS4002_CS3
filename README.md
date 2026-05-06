@@ -6,7 +6,7 @@ This repository contains the necessary contents to complete the Topic Modeling M
 - **Hook Document:** Provides the motivation and background for the topic of this case study. A high-level overview of what you accomplish in this case study and how you will do so.
 
 - **Rubric:** Provides the "why" and "how" of the case study. This document should be referenced throughout the case study process. It includes instructions of what you are going to do in the case study, tips for success, and the format of delivarables and sections in the GitHub repository to prepare you for submission.
-- 
+
 - **SCRIPTS:** Includes code to reference for cleaning and preprocessing the provided dataset, and preparing and running LDA.
  
 - **DATA:** Includes the original dataset, downloaded from Kaggle (https://www.kaggle.com/datasets/nelgiriyewithana/mcdonalds-store-reviews), and a data appendix to help your understanding of the dataset. You will use this dataset in the case study as a starting point. You will need to perform cleaning and preprocessing steps before fitting the model and performing analyses.
