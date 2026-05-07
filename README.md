@@ -8,7 +8,7 @@ This repository contains the necessary contents to complete the Topic Modeling M
 - **Rubric:** Provides the "why" and "how" of the case study. This document should be referenced throughout the case study process. It includes instructions of what you are going to do in the case study, tips for success, and the format of delivarables and sections in the GitHub repository to prepare you for submission.
 
 - **SCRIPTS:** Includes code to reference for cleaning and preprocessing the provided dataset, and preparing and running LDA.
- - **Important Note:** You may refer to the provided code for ideas but may not directly copy and paste it. You must write and submit your own code to meet the specifications of the case study, since the goal is that you gain experience implementing LDA and working through the entire data science pipeline. If you do not write and submit your own code, you will not pass this case study.
+  - **Important Note:** You may refer to the provided code for ideas but may not directly copy and paste it. You must write and submit your own code to meet the specifications of the case study, since the goal is that you gain experience implementing LDA and working through the entire data science pipeline. If you do not write and submit your own code, you will not pass this case study.
   
 - **DATA:** Includes the original dataset, downloaded from Kaggle (https://www.kaggle.com/datasets/nelgiriyewithana/mcdonalds-store-reviews), and a data appendix to help your understanding of the dataset. You will use this dataset in the case study as a starting point. You will need to perform cleaning and preprocessing steps before fitting the model and performing analyses.
 
